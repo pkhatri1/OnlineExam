@@ -1,0 +1,9 @@
+D:\Mudassar\Learning\OnlineExamApp\WebApplication1\OnlineExamApp.Core\bin\Debug\OnlineExamApp.Core.dll
+D:\Mudassar\Learning\OnlineExamApp\WebApplication1\OnlineExamApp.Core\bin\Debug\OnlineExamApp.Core.pdb
+D:\Mudassar\Learning\OnlineExamApp\WebApplication1\OnlineExamApp.Core\obj\Debug\OnlineExamApp.Core.dll
+D:\Mudassar\Learning\OnlineExamApp\WebApplication1\OnlineExamApp.Core\obj\Debug\OnlineExamApp.Core.pdb
+D:\Mudassar\Learning\OnlineExamApp\OnlineExamAppSolution\OnlineExamApp.Core\bin\Debug\OnlineExamApp.Core.dll
+D:\Mudassar\Learning\OnlineExamApp\OnlineExamAppSolution\OnlineExamApp.Core\bin\Debug\OnlineExamApp.Core.pdb
+D:\Mudassar\Learning\OnlineExamApp\OnlineExamAppSolution\OnlineExamApp.Core\obj\Debug\OnlineExamApp.Core.csprojResolveAssemblyReference.cache
+D:\Mudassar\Learning\OnlineExamApp\OnlineExamAppSolution\OnlineExamApp.Core\obj\Debug\OnlineExamApp.Core.dll
+D:\Mudassar\Learning\OnlineExamApp\OnlineExamAppSolution\OnlineExamApp.Core\obj\Debug\OnlineExamApp.Core.pdb

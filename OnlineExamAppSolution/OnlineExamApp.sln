@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnlineExamApp.Model", "OnlineExamApp.Model\OnlineExamApp.Model.csproj", "{81B5CD9C-9937-4BE4-A2EF-4A8D84175E30}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnlineExamApp.Business", "OnlineExamApp.Business\OnlineExamApp.Business.csproj", "{92939633-F8E4-4246-AA3F-E485AAE3DC09}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnlineExamAppService", "OnlineExamAppService\OnlineExamAppService.csproj", "{274DDEB1-00E9-424C-804D-B7C20FB2962B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnlineExamApp.Core", "OnlineExamApp.Core\OnlineExamApp.Core.csproj", "{93D0B55F-EFA0-4F37-94BE-9016D15300E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnlineExamApp", "OnlineExamAppWeb\OnlineExamApp.csproj", "{95E4CD3A-229E-41B5-8248-5003F3DBDE16}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{81B5CD9C-9937-4BE4-A2EF-4A8D84175E30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81B5CD9C-9937-4BE4-A2EF-4A8D84175E30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81B5CD9C-9937-4BE4-A2EF-4A8D84175E30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81B5CD9C-9937-4BE4-A2EF-4A8D84175E30}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92939633-F8E4-4246-AA3F-E485AAE3DC09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92939633-F8E4-4246-AA3F-E485AAE3DC09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92939633-F8E4-4246-AA3F-E485AAE3DC09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92939633-F8E4-4246-AA3F-E485AAE3DC09}.Release|Any CPU.Build.0 = Release|Any CPU
+		{274DDEB1-00E9-424C-804D-B7C20FB2962B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{274DDEB1-00E9-424C-804D-B7C20FB2962B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{274DDEB1-00E9-424C-804D-B7C20FB2962B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{274DDEB1-00E9-424C-804D-B7C20FB2962B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93D0B55F-EFA0-4F37-94BE-9016D15300E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93D0B55F-EFA0-4F37-94BE-9016D15300E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93D0B55F-EFA0-4F37-94BE-9016D15300E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93D0B55F-EFA0-4F37-94BE-9016D15300E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95E4CD3A-229E-41B5-8248-5003F3DBDE16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95E4CD3A-229E-41B5-8248-5003F3DBDE16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95E4CD3A-229E-41B5-8248-5003F3DBDE16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95E4CD3A-229E-41B5-8248-5003F3DBDE16}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
